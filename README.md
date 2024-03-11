@@ -49,7 +49,7 @@ PROPOSED FEATURE :
    - Real-time order tracking with notifications for status, pickup time, and location.
   
 Tech Stack:
-1.HTML5
+1.HTML5/n
 2.CSS
 3.JAVASCRIPT
 4.REACTJS
