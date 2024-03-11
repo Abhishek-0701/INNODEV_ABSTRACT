@@ -1,6 +1,8 @@
 # INNODEV_ABSTRACT
 
 
+(FEED ME NOW)
+
 Team Name :  Phoenix
 
 
@@ -23,6 +25,27 @@ github link : https://github.com/Beasteater019
 Member 4 : Vishal Goswami (CSE)
 Github Id: Hi22Hi
 github link : https://github.com/Hi22Hi
+
+
+
+PROPOSED FEATURE :
+
+Sure, here's a concise summary:
+
+1. User Authentication:
+   - Separate login for students, staff, and canteen owners, integrated with college IDs.
+
+2. Menu Viewing:
+   - Students and staff can see the canteen's menu with items, descriptions, and prices.
+
+3. Order Placement:
+   - Users can customize and order their favorite items.
+
+4. Payment Options:
+   - Support for credit/debit cards, net banking, and digital wallets.
+
+5. Order Tracking:
+   - Real-time order tracking with notifications for status, pickup time, and location.
 
 
 
