@@ -28,9 +28,10 @@ github link : https://github.com/Hi22Hi
 
 
 
+
+
 PROPOSED FEATURE :
 
-Sure, here's a concise summary:
 
 1. User Authentication:
    - Separate login for students, staff, and canteen owners, integrated with college IDs.
