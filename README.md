@@ -49,13 +49,21 @@ PROPOSED FEATURE :
    - Real-time order tracking with notifications for status, pickup time, and location.
   
 Tech Stack:
-1.HTML5/n
+
+1.HTML5
+
 2.CSS
+
 3.JAVASCRIPT
+
 4.REACTJS
+
 5.NODEJS
+
 6.MONGODB
+
 7.EXPRESSJS
+
 8.API
 
 
