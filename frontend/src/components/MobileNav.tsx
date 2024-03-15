@@ -17,7 +17,7 @@ const MobileNav = () => {
                 {isAuthenticated? (<span className="flex items-center font-bold gap-2">
                     <CircleUserRound className="text-orange-500"/>
                     {user?.email}
-                </span>): (<span>Welcome to MernEats.com!</span>)}
+                </span>): (<span>Welcome to Mnnit_food.com!</span>)}
                
             </SheetTitle>
             <Separator/>
