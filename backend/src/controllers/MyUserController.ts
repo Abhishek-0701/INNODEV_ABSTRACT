@@ -36,7 +36,7 @@ const createCurrentUser = async (req: Request, res: Response) => {
 
 const updateCurrentUser = async (req: Request, res: Response) => {
   try {
-    const { name, Hostel, Mobile_No, Room_No} = req.body;
+    const { name, Hostel, Mobile_No, Room_No } = req.body;
     const user = await User.findById(req.userId);
 
     if (!user) {

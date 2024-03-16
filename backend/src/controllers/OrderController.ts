@@ -31,7 +31,7 @@ type CheckoutSessionRequest = {
     name: string;
     Hostel: string;
     Room_No: string;
-  }
+  };
   restaurantId: string;
 };
 

@@ -19,15 +19,15 @@ export const validateMyUserRequest = [
     .isString()
     .notEmpty()
     .withMessage("Hostel must be a string"),
-  body("Room_No").isString().notEmpty().withMessage(" Room No. must be a Number"),
-  body("Mobile_No").isString().notEmpty().withMessage("Mobile No. must be a Number"),
+  body("Room_No").isString().notEmpty().withMessage("Room_No must be a string"),
+  body("Mobile_No").isString().notEmpty().withMessage("Mobile_No must be a string"),
   handleValidationErrors,
 ];
 
 export const validateMyRestaurantRequest = [
   body("restaurantName").notEmpty().withMessage("Restaurant name is required"),
   body("city").notEmpty().withMessage("City is required"),
-  body("country").notEmpty().withMessage("Country is required"),
+  body("Mobile_No").notEmpty().withMessage("Mobile_No is required"),
   body("deliveryPrice")
     .isFloat({ min: 0 })
     .withMessage("Delivery price must be a positive number"),

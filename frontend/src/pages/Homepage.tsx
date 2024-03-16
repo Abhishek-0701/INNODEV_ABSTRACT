@@ -31,8 +31,8 @@ const HomePage = () => {
             Order takeaway even faster!
           </span>
           <span>
-          Welcome to MNNIT-FOOD your one-stop destination for faster
-           ordering and personalized recommendations! 
+            Download the MernEats App for faster ordering and personalised
+            recommendations
           </span>
           <img src={appDownloadImage} />
         </div>

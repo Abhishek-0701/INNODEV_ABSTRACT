@@ -18,7 +18,7 @@ export type Restaurant = {
   user: string;
   restaurantName: string;
   city: string;
-  country: string;
+  Mobile_No: string;
   deliveryPrice: number;
   estimatedDeliveryTime: number;
   cuisines: string[];
