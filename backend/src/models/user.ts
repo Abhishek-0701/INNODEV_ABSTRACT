@@ -12,13 +12,13 @@ const userSchema = new mongoose.Schema({
   name: {
     type: String,
   },
-  addressLine1: {
+  Hostel: {
     type: String,
   },
-  city: {
+  Room_No: {
     type: String,
   },
-  country: {
+  Mobile_No: {
     type: String,
   },
 });
